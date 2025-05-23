@@ -15,7 +15,8 @@ AI Text Checker е интерактивен инструмент, създаде
 
 ## 🚀 Стартирай в Google Colab
 
-[![Отвори в Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Djillas/ai-text-checker/blob/main/ai_text_checker.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Djillas/ai-text-checker/blob/main/AI_Text_Checker.ipynb)
+
 
 > 🔐 Не забравяй да въведеш своя OpenAI API ключ в скрипта.
 
